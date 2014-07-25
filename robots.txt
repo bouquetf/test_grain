@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: bouquetf.github.io/sitemap.xml
